@@ -23,29 +23,23 @@ As documented in [Public Participation Invited](https://github.com/oasis-open/op
 
 ## Statement of Purpose
 
-<statement of purpose provided by the TC>
-
-*Additions to Statement of Purpose*
-
-*The TC may include additional content as descriptive text, reflecting project status, milestones, releases, modifications to statement of purpose, etc. 
+This Open Repo is intentded for the awareness and adoption of the OpenEoX TC.
 
 ## <a id="maintainers">Maintainers</a>
 
-TC Open Repository [Maintainers](https://www.oasis-open.org/resources/open-repositories/maintainers-guide) are responsible for oversight of this project's community development activities, including evaluation of GitHub [pull requests](https://github.com/oasis-open/<repoName>/blob/master/CONTRIBUTING.md#fork-and-pull-collaboration-model) and [preserving](https://www.oasis-open.org/policies-guidelines/open-repositories#repositoryManagement) open source principles of openness and fairness. Maintainers are recognized and trusted experts who serve to implement community goals and consensus design preferences.
+TC Open Repository [Maintainers](https://www.oasis-open.org/resources/open-repositories/maintainers-guide) are responsible for oversight of this project's community development activities, including evaluation of GitHub [pull requests](https://github.com/oasis-open/openeox/blob/master/CONTRIBUTING.md#fork-and-pull-collaboration-model) and [preserving](https://www.oasis-open.org/policies-guidelines/open-repositories#repositoryManagement) open source principles of openness and fairness. Maintainers are recognized and trusted experts who serve to implement community goals and consensus design preferences.
 
 Initially, the TC members have designated one or more persons to serve as Maintainer(s); subsequently, participating community members may select additional or substitute Maintainers, by [consensus agreements](https://www.oasis-open.org/resources/open-repositories/maintainers-guide#additionalMaintainers). 
 
 <a id="currentMaintainers">Current Maintainers</a> of this TC Open Repository are: 
-
-<b>********** SUPPLY TEXT*******</b> 
-
-- <MaintainerName>; <email-address>; GitHub ID: <id>- [<affiliation](<affiliation URL>)
+- Stefan Hagen; stefan@hagen.link, sthagen, Individual
+- Omar Santos; osantos@cisco.com, santosomar, [Cisco](https://www.cisco.com/)
 
 ## About OASIS TC Open Repositories
 
 - [TC Open Repositories: Overview and Resources](https://www.oasis-open.org/resources/open-repositories/)
 
-- [Frequently Asked Questions]https://www.oasis-open.org/resources/open-repositories/faq)
+- [Frequently Asked Questions](https://www.oasis-open.org/resources/open-repositories/faq)
 
 - [Open Source Licenses](https://www.oasis-open.org/resources/open-repositories/licenses)
 
