@@ -23,7 +23,7 @@ As documented in [Public Participation Invited](https://github.com/oasis-open/op
 
 ## Statement of Purpose
 
-This Open Repo is intentded for the awareness and adoption of the OpenEoX TC.
+This Open Repo is intentded for the awareness and adoption of the OpenEoX TC. Previous work on this topic can be located in [this](https://github.com/openeox) repo.
 
 ## <a id="maintainers">Maintainers</a>
 
